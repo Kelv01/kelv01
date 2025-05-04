@@ -7,16 +7,19 @@
 <!-- About Me Section -->
 ### 👨‍💻 About Me
 
-I'm a passionate and adaptable individual transitioning into front-end development. With a rich music production and sales background, I bring a unique blend of creativity, empathy, and analytical thinking to the tech space.
+Hi, I'm Kelvin — a passionate Front-End Developer on a mission to turn creative ideas into functional, meaningful web experiences.
 
 - 🎯 Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, and **Responsive Design**
 - 🛠️ Tools: **Git**, **VSCode**, **Google Web Apps**, **Canvas**
 - 🌱 Goals:
-  - Master front-end development
-  - Design and ship real-world web apps
-  - Freelance and contribute to impactful projects
-  - Transition to full-stack development and launch my own product
-- 🎵 Fun fact: My background in music production fuels my creativity in coding!
+- Master front-end development
+- Design and ship real-world web apps
+- Freelance and contribute to impactful projects
+- Transition to full-stack development and launch my own product 
+- Long-term, I aim to freelance, contribute to open source, build impactful tools, and eventually launch my own products.  
+
+📫 Let’s connect and build something great together:  
+[LinkedIn](https://www.linkedin.com/in/kelvin-nungari) | [GitHub](https://github.com/Kelv01)
 
 ---
 
@@ -27,10 +30,14 @@ I'm a passionate and adaptable individual transitioning into front-end developme
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo= &logoColor=black" alt=" "/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
 </p>
+
 
 ---
 
