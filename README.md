@@ -22,6 +22,12 @@ Hi, I'm Kelvin — a passionate Front-End Developer on a mission to turn creativ
 [LinkedIn](https://www.linkedin.com/in/kelvin-nungari) | [GitHub](https://github.com/Kelv01)
 
 ---
+## 🎯 Mission
+
+To craft intuitive digital experiences that empower people — from creators and small business owners to learners and innovators.  
+I'm passionate about building meaningful tools using **React**, **Flutter**, and **Python**, combining creativity and code to solve real-world problems.  
+My mission is to **create products that connect, simplify, and elevate** the way people live and work.
+
 
 <!-- Skills Section -->
 ### 🛠️ Skills & Tools
