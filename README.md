@@ -9,7 +9,7 @@
 
 I'm a passionate and adaptable individual transitioning into front-end development. With a rich music production and sales background, I bring a unique blend of creativity, empathy, and analytical thinking to the tech space.
 
-- 🎯 Currently learning: **HTML**, **CSS**, **JavaScript**, and **Responsive Design**
+- 🎯 Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, and **Responsive Design**
 - 🛠️ Tools: **Git**, **VSCode**, **Google Web Apps**, **Canvas**
 - 🌱 Goals:
   - Master front-end development
@@ -53,9 +53,7 @@ I'm a passionate and adaptable individual transitioning into front-end developme
   <a href="mailto:kelvinnungari9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/254712345678" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+ 
 </p>
 
 ---
