@@ -1,28 +1,28 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Kelvin Nungari</h1>
-<h3 align="center">🎧 Creative Technologist | 🌐 Front-End Developer in Training | 🚀 Problem Solver</h3>
+<h1 align="center">Hi, I'm Kelvin Nungari</h1>
+<h3 align="center"> Creative Technologist |  Front-End Developer in Training |  Problem Solver</h3>
 
 ---
 
 <!-- About Me Section -->
-### 👨‍💻 About Me
+###  About Me
 
 Hi, I'm Kelvin — a passionate Front-End Developer on a mission to turn creative ideas into functional, meaningful web experiences.
 
-- 🎯 Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, and **Responsive Design**
-- 🛠️ Tools: **Git**, **VSCode**, **Google Web Apps**, **Canvas**
-- 🌱 Goals:
+- Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, and **Responsive Design**
+- Tools: **Git**, **VSCode**, **Google Web Apps**, **Canvas**
+- Goals:
 - Master front-end development
 - Design and ship real-world web apps
 - Freelance and contribute to impactful projects
 - Transition to full-stack development and launch my own product 
 - Long-term, I aim to freelance, contribute to open source, build impactful tools, and eventually launch my own products.  
 
-📫 Let’s connect and build something great together:  
+Let’s connect and build something great together:  
 [LinkedIn](https://www.linkedin.com/in/kelvin-nungari) | [GitHub](https://github.com/Kelv01)
 
 ---
-## 🎯 Mission
+## Mission
 
 To craft intuitive digital experiences that empower people — from creators and small business owners to learners and innovators.  
 I'm passionate about building meaningful tools using **React**, **Flutter**, and **Python**, combining creativity and code to solve real-world problems.  
@@ -30,7 +30,7 @@ My mission is to **create products that connect, simplify, and elevate** the way
 
 
 <!-- Skills Section -->
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -48,7 +48,7 @@ My mission is to **create products that connect, simplify, and elevate** the way
 ---
 
 <!-- GitHub Stats Section -->
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelv01&show_icons=true&theme=radical)
 
@@ -57,7 +57,7 @@ My mission is to **create products that connect, simplify, and elevate** the way
 ---
 
 <!-- Connect With Me Section -->
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kelvin-nungari/" target="_blank">
@@ -72,7 +72,7 @@ My mission is to **create products that connect, simplify, and elevate** the way
 ---
 
 <!-- Visitor Count Section -->
-### 👀 Visitor Count
+### Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kelv01&color=blue)
 
