@@ -7,7 +7,7 @@
 <!-- About Me Section -->
 ###  About Me
 
-Hi, I'm Kelvin — a passionate Front-End Developer on a mission to turn creative ideas into functional, meaningful web experiences.
+Hi, I'm Kelvin, a passionate Front-End Developer on a mission to turn creative ideas into functional, meaningful web experiences.
 
 - Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, and **Responsive Design**
 - Tools: **Git**, **VSCode**, **Google Web Apps**, **Canvas**
