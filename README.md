@@ -9,7 +9,7 @@
 
 Hi, I'm Kelvin, a passionate Front-End Developer on a mission to turn creative ideas into functional, meaningful web experiences.
 
-- Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, and **Responsive Design**
+- Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, **NextJS**, and **Responsive Design**
 - Tools: **Git**, **VSCode**, **Google Web Apps**, **Canvas**
 - Goals:
 - Master front-end development
@@ -24,7 +24,7 @@ Let’s connect and build something great together:
 ---
 ## Mission
 
-To craft intuitive digital experiences that empower people — from creators and small business owners to learners and innovators.  
+To craft intuitive digital experiences that empower people, from creators and small business owners to learners and innovators.  
 I'm passionate about building meaningful tools using **React**, **Flutter**, and **Python**, combining creativity and code to solve real-world problems.  
 My mission is to **create products that connect, simplify, and elevate** the way people live and work.
 
