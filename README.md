@@ -1,78 +1,111 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Kelvin Nungari</h1>
-<h3 align="center"> Creative Technologist |  Front-End Developer in Training |  Problem Solver</h3>
+<!--
+  🔥 Unique GitHub Profile README for Kelvin Nungari (Kelv01)
+  Combines professional structure with personal touch
+-->
 
----
+<div align="center">
 
-<!-- About Me Section -->
-###  About Me
+<h1>👋 Hi, I'm Kelvin Nungari (Kelv01)</h1>
 
-Hi, I'm Kelvin, a passionate Front-End Developer on a mission to turn creative ideas into functional, meaningful web experiences.
+<h3>Front-End Web Developer | Aspiring Full-Stack Engineer | Creative Technologist</h3>
 
-- Currently learning: **HTML**, **CSS**, **JavaScript**, **React**, **NextJS**, and **Responsive Design**
-- Tools: **Git**, **VSCode**, **Google Web Apps**, **Canvas**
-- Goals:
-- Master front-end development
-- Design and ship real-world web apps
-- Freelance and contribute to impactful projects
-- Transition to full-stack development and launch my own product 
-- Long-term, I aim to freelance, contribute to open source, build impactful tools, and eventually launch my own products.  
-
-Let’s connect and build something great together:  
-[LinkedIn](https://www.linkedin.com/in/kelvin-nungari) | [GitHub](https://github.com/Kelv01)
-
----
-## Mission
-
-To craft intuitive digital experiences that empower people, from creators and small business owners to learners and innovators.  
-I'm passionate about building meaningful tools using **React**, **Flutter**, and **Python**, combining creativity and code to solve real-world problems.  
-My mission is to **create products that connect, simplify, and elevate** the way people live and work.
-
-
-<!-- Skills Section -->
-### Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+<p>
+  I am a learner of the <strong>ALX Prodev Front-End Web Development program</strong> and a passionate software engineer driven to make technology accessible to everyone, especially people with disabilities. My mission is to solve problems at scale and provide <em>tech without barriers</em>. I aim to use technology to inclusively grow, solve real-world problems, and contribute meaningfully to society.
 </p>
 
+<p>
+  💡 I build responsive web apps, explore full-stack development, and apply tech to solve problems that matter. I enjoy contributing to open source, IoT, robotics, backend projects, and system-level solutions.
+</p>
+
+</div>
 
 ---
 
-<!-- GitHub Stats Section -->
-### GitHub Stats
+## 🌟 About Me
 
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelv01&show_icons=true&theme=radical)
+I am a creative technologist with a strong passion for accessible technology and a belief that tech should empower every person regardless of ability. My journey into software engineering started with a love for solving problems and building digital experiences that make life easier. My focus is on projects that solve real-world problems, improve accessibility, and promote collaboration through open source  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelv01&layout=compact&theme=radical)
+I approach each project as a chance to learn and grow while creating tools that are practical, inclusive, and innovative
 
 ---
 
-<!-- Connect With Me Section -->
-### Connect with Me
+## 🚀 Focus Areas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kelvin-nungari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kelvinnungari9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
- 
+### Currently Learning
+- HTML & CSS  
+- JavaScript & TypeScript  
+- React & Next.js  
+- Tailwind CSS  
+
+### Looking Forward To Learning
+- Node.js & Express.js  
+- Python  
+- MySQL & PostgreSQL  
+- MongoDB  
+- IoT & Robotics  
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### Front-End Web
+- **[movieverse]**(https://movie-verse-tau-gray.vercel.app/) - Movieverse built with react and tailwindcss
+<!-- - **[Portfolio Website](#)** – Responsive portfolio built with Next.js and Tailwind CSS  
+- **[Testimonial Component Library](#)** – Reusable React components for testimonials
+
+
+### Back-End & APIs
+- **[API for Task Management](#)** – Node.js and Express REST API with MongoDB  
+
+### IoT & Robotics
+- **[Home Automation System](#)** – Raspberry Pi IoT project for smart homes  
+
+### Open Source
+- **[Contributions](#)** – Active contributor to various open-source projects  
+
+<!--Replace `#` with live links when available -->
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kelvin-nungari" target="_blank">🔗 LinkedIn</a> •  
+  <a href="mailto:your.kelvinnungari9@gmail.com">✉️ Email</a>   
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="Kelvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kelv01&show_icons=true&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelv01&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<!-- Visitor Count Section -->
-### Visitor Count
+<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Kelv01&color=blue)
+### ⚡ Fun Fact
 
+> “I aim to give tech without technology — solving problems with creativity and code”
+
+</div>
